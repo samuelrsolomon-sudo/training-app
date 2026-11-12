@@ -1,9 +1,16 @@
 {
   "name": "RegiCMC Pro",
   "short_name": "RegiCMC",
-  "start_url": "./",
+  "description": "Granular Module 3 & Protocol Writer for Biopharmaceuticals",
+  "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#0f172a",
   "theme_color": "#0f172a",
-  "icons": []
+  "icons": [
+    {
+      "src": "https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/26a1.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    }
+  ]
 }
